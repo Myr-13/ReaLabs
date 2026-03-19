@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include <sstream> // Подключаем библиотеку для работы с потоками строк
+#include <sstream>
 #include <Windows.h>
 
 using namespace std;
